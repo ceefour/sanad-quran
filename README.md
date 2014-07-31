@@ -21,7 +21,7 @@ are available at https://github.com/ceefour/qurandatabase
 2. Use `org.soluvas.sanad.cli.qurandatabase.ImportQuranDatabase` from https://github.com/soluvas/sanad project.
 3. Dump from PostgreSQL:
 
-		psql -hlocalhost -Upostgres sanad_sanad_dev 
+		psql -hlocalhost -Upostgres sanad_sanad_dev
 
 		COPY (SELECT * FROM sanad.quranchapter) TO '/tmp/quranchapter.tsv';
 		COPY (SELECT * FROM sanad.quranverse) TO '/tmp/quranverse.tsv';
