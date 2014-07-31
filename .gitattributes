@@ -30,6 +30,7 @@
 *.rb text
 *.py text
 *.scm text
+*.sql text
 .htaccess text
 
 # These files are binary and should be left untouched
