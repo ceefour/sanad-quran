@@ -15,13 +15,13 @@ are available at https://github.com/ceefour/qurandatabase
 1. Create the necessary tables using https://github.com/soluvas/sanad SQL schema migration tools.
 2. Import data using `psql` and `COPY` (PostgreSQL server's) or `\copy` (locally) command:
 
-\copy sanad.quranchapter from 'quranchapter.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
-\copy sanad.literal from 'literal-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
-\copy sanad.quranverse from 'quranverse.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
-\copy sanad.transliteration from 'transliteration-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
-\copy sanad.spellingproperty from 'spellingproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
-\copy sanad.authenticityproperty from 'authenticityproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
-\copy sanad.successionproperty from 'successionproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy sanad.quranchapter from 'quranchapter.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy sanad.literal from 'literal-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy sanad.quranverse from 'quranverse.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy sanad.transliteration from 'transliteration-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy sanad.spellingproperty from 'spellingproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy sanad.authenticityproperty from 'authenticityproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy sanad.successionproperty from 'successionproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
 
 ## How to Generate These Files
 
