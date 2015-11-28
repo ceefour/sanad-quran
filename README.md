@@ -13,7 +13,15 @@ are available at https://github.com/ceefour/qurandatabase
 ## Usage
 
 1. Create the necessary tables using https://github.com/soluvas/sanad SQL schema migration tools.
-2. Import data using `psql` and `COPY` command.
+2. Import data using `psql` and `COPY` (PostgreSQL server's) or `\copy` (locally) command:
+
+\copy sanad.quranchapter from 'quranchapter.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+\copy sanad.literal from 'literal-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+\copy sanad.quranverse from 'quranverse.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+\copy sanad.transliteration from 'transliteration-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+\copy sanad.spellingproperty from 'spellingproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+\copy sanad.authenticityproperty from 'authenticityproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+\copy sanad.successionproperty from 'successionproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
 
 ## How to Generate These Files
 
@@ -23,13 +31,13 @@ are available at https://github.com/ceefour/qurandatabase
 
 		psql -hlocalhost -Upostgres sanad_sanad_dev
 
-		COPY (SELECT * FROM sanad.quranchapter) TO '/tmp/quranchapter.tsv';
-		COPY (SELECT * FROM sanad.quranverse) TO '/tmp/quranverse.tsv';
-		COPY (SELECT * FROM sanad.literal WHERE id LIKE 'quran%') TO '/tmp/literal-quran.tsv';
-		COPY (SELECT * FROM sanad.transliteration WHERE id LIKE 'quran%') TO '/tmp/transliteration-quran.tsv';
-		COPY (SELECT * FROM sanad.spellingproperty WHERE id LIKE 'quran%') TO '/tmp/spellingproperty-quran.tsv';
-		COPY (SELECT * FROM sanad.authenticityproperty WHERE id LIKE 'quran%') TO '/tmp/authenticityproperty-quran.tsv';
-		COPY (SELECT * FROM sanad.successionproperty WHERE id LIKE 'quran%') TO '/tmp/successionproperty-quran.tsv';
+		\copy sanad.quranchapter to 'quranchapter.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy (SELECT * FROM sanad.literal WHERE id LIKE 'quran%') TO 'literal-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy (SELECT * FROM sanad.quranverse WHERE id LIKE 'quran%') TO 'quranverse.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy (SELECT * FROM sanad.transliteration WHERE id LIKE 'quran%') TO 'transliteration-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy (SELECT * FROM sanad.spellingproperty WHERE id LIKE 'quran%') TO 'spellingproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy (SELECT * FROM sanad.authenticityproperty WHERE id LIKE 'quran%') TO 'authenticityproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
+		\copy (SELECT * FROM sanad.successionproperty WHERE id LIKE 'quran%') TO 'successionproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
 
 		cp -v /tmp/quran*.tsv /tmp/*-quran.tsv ~/git/sanad-quran/
 		

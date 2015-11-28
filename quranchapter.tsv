@@ -1,114 +1,115 @@
-quran_1	quran1	الفاتحة	quran-1	(Original Book)	ar	1	AL-FAATIHAH	\N
-quran_2	quran2	البقرة	quran-2	(Original Book)	ar	2	AL-BAQARAH	\N
-quran_3	quran3	ال عمران	quran-3	(Original Book)	ar	3	ALI-IMRAN	\N
-quran_4	quran4	النساء	quran-4	(Original Book)	ar	4	AN-NISAA´	\N
-quran_5	quran5	المائدة	quran-5	(Original Book)	ar	5	AL-MAAIDAH	\N
-quran_6	quran6	الانعام	quran-6	(Original Book)	ar	6	AL-AN´AAM	\N
-quran_7	quran7	الاعراف	quran-7	(Original Book)	ar	7	AL-A´RAAF	\N
-quran_8	quran8	الانفال	quran-8	(Original Book)	ar	8	AL-A´RAAF	\N
-quran_9	quran9	التوبة	quran-9	(Original Book)	ar	9	AT-TAUBAH	\N
-quran_10	quran10	يونس	quran-10	(Original Book)	ar	10	YUNUS	\N
-quran_11	quran11	هود	quran-11	(Original Book)	ar	11	HUD	\N
-quran_12	quran12	يوسف	quran-12	(Original Book)	ar	12	YUSUF	\N
-quran_13	quran13	الرعد	quran-13	(Original Book)	ar	13	AR-RA´D	\N
-quran_14	quran14	ابراهيم	quran-14	(Original Book)	ar	14	IBRAHIM	\N
-quran_15	quran15	الحجر	quran-15	(Original Book)	ar	15	AL-HIJR	\N
-quran_16	quran16	النحل	quran-16	(Original Book)	ar	16	AL-NAHL	\N
-quran_17	quran17	الاسراء	quran-17	(Original Book)	ar	17	AL-ISRAA´	\N
-quran_18	quran18	الكهف	quran-18	(Original Book)	ar	18	AL-KAHFI	\N
-quran_19	quran19	مريم	quran-19	(Original Book)	ar	19	MARYAM	\N
-quran_20	quran20	طه	quran-20	(Original Book)	ar	20	TAHA	\N
-quran_21	quran21	الانبياء	quran-21	(Original Book)	ar	21	AL-ANBIYAA´	\N
-quran_22	quran22	الحج	quran-22	(Original Book)	ar	22	AL-HAJJ	\N
-quran_23	quran23	المؤمنون	quran-23	(Original Book)	ar	23	AL-MU´MINUUN	\N
-quran_24	quran24	النور	quran-24	(Original Book)	ar	24	AN-NUUR	\N
-quran_25	quran25	الفرقان	quran-25	(Original Book)	ar	25	AL-FURQAAN	\N
-quran_26	quran26	الشعراء	quran-26	(Original Book)	ar	26	ASY-SYU´ARAA	\N
-quran_27	quran27	النمل	quran-27	(Original Book)	ar	27	AN-NAML	\N
-quran_28	quran28	القصص	quran-28	(Original Book)	ar	28	AL-QASAS	\N
-quran_29	quran29	العنكبوت	quran-29	(Original Book)	ar	29	AL-´ANKABUUT	\N
-quran_30	quran30	الروم	quran-30	(Original Book)	ar	30	AR-RUUM	\N
-quran_31	quran31	لقمان	quran-31	(Original Book)	ar	31	LUQMAN	\N
-quran_32	quran32	السجدة	quran-32	(Original Book)	ar	32	AS-SAJDAH	\N
-quran_33	quran33	الاحزاب	quran-33	(Original Book)	ar	33	AL-AHZAAB	\N
-quran_34	quran34	سبأ	quran-34	(Original Book)	ar	34	SABA	\N
-quran_35	quran35	فاطر	quran-35	(Original Book)	ar	35	FAATIR	\N
-quran_36	quran36	يس	quran-36	(Original Book)	ar	36	YAA SIIN	\N
-quran_37	quran37	الصافات	quran-37	(Original Book)	ar	37	AS-SAAFFAAT	\N
-quran_38	quran38	ص	quran-38	(Original Book)	ar	38	SAAD	\N
-quran_39	quran39	الزمر	quran-39	(Original Book)	ar	39	AZ-ZUMAR	\N
-quran_40	quran40	غافر	quran-40	(Original Book)	ar	40	GHAAFIR	\N
-quran_41	quran41	فصلت	quran-41	(Original Book)	ar	41	FUSSILAT	\N
-quran_42	quran42	الشورى	quran-42	(Original Book)	ar	42	ASY-SYUURA	\N
-quran_43	quran43	الزخرف	quran-43	(Original Book)	ar	43	AZ-ZUKHRUF	\N
-quran_44	quran44	الدخان	quran-44	(Original Book)	ar	44	AD-DUKHAAN	\N
-quran_45	quran45	الجاثية	quran-45	(Original Book)	ar	45	AL-JAATHIYAH	\N
-quran_46	quran46	الاحقاف	quran-46	(Original Book)	ar	46	AL-AHQAAF	\N
-quran_47	quran47	محمد	quran-47	(Original Book)	ar	47	MUHAMMAD	\N
-quran_48	quran48	الفتح	quran-48	(Original Book)	ar	48	AL-FATH	\N
-quran_49	quran49	الحجرات	quran-49	(Original Book)	ar	49	AL-HUJURAAT	\N
-quran_50	quran50	ق	quran-50	(Original Book)	ar	50	QAAF	\N
-quran_51	quran51	الذاريات	quran-51	(Original Book)	ar	51	AZ-ZAARIYAAT	\N
-quran_52	quran52	الطور	quran-52	(Original Book)	ar	52	AT-TUUR	\N
-quran_53	quran53	النجم	quran-53	(Original Book)	ar	53	AN-NAJM	\N
-quran_54	quran54	القمر	quran-54	(Original Book)	ar	54	AL-QAMAR	\N
-quran_55	quran55	الرحمن	quran-55	(Original Book)	ar	55	AR-RAHMAAN	\N
-quran_56	quran56	الواقعة	quran-56	(Original Book)	ar	56	AL-WAAQI´AH	\N
-quran_57	quran57	الحديد	quran-57	(Original Book)	ar	57	AL-HADIID	\N
-quran_58	quran58	المجادلة	quran-58	(Original Book)	ar	58	AL-MUJAADALAH	\N
-quran_59	quran59	الحشر	quran-59	(Original Book)	ar	59	AL-HASYR	\N
-quran_60	quran60	الممتحنة	quran-60	(Original Book)	ar	60	AL-MUMTAHANAH	\N
-quran_61	quran61	الصف	quran-61	(Original Book)	ar	61	AS-SAFF	\N
-quran_62	quran62	الجمعة	quran-62	(Original Book)	ar	62	AL-JUMU´AH	\N
-quran_63	quran63	المنافقون	quran-63	(Original Book)	ar	63	AL-MUNAAFIQUUN	\N
-quran_64	quran64	التغابن	quran-64	(Original Book)	ar	64	AT-TAGHAABUN	\N
-quran_65	quran65	الطلاق	quran-65	(Original Book)	ar	65	AT-TALAAQ	\N
-quran_66	quran66	التحريم	quran-66	(Original Book)	ar	66	AT-TAHRIIM	\N
-quran_67	quran67	الملك	quran-67	(Original Book)	ar	67	AL-MULK	\N
-quran_68	quran68	القلم	quran-68	(Original Book)	ar	68	AL-QALAM	\N
-quran_69	quran69	الحاقة	quran-69	(Original Book)	ar	69	AL-HAAQQAH	\N
-quran_70	quran70	المعارج	quran-70	(Original Book)	ar	70	AL-MA´AARIJ	\N
-quran_71	quran71	نوح	quran-71	(Original Book)	ar	71	NUH	\N
-quran_72	quran72	الجن	quran-72	(Original Book)	ar	72	AL-JINN	\N
-quran_73	quran73	المزمل	quran-73	(Original Book)	ar	73	AL-MUZZAMMIL	\N
-quran_74	quran74	المدثر	quran-74	(Original Book)	ar	74	AL-MUDDATHTHIR	\N
-quran_75	quran75	القيامة	quran-75	(Original Book)	ar	75	AL-QIAAMAH	\N
-quran_76	quran76	الانسان	quran-76	(Original Book)	ar	76	AL-INSAAN	\N
-quran_77	quran77	المرسلات	quran-77	(Original Book)	ar	77	AL-MURSALAAT	\N
-quran_78	quran78	النبا	quran-78	(Original Book)	ar	78	AN-NABA´	\N
-quran_79	quran79	النازعات	quran-79	(Original Book)	ar	79	AN-NAAZI´AAT	\N
-quran_80	quran80	عبس	quran-80	(Original Book)	ar	80	´ABASA	\N
-quran_81	quran81	التكوير	quran-81	(Original Book)	ar	81	AT-TAKWIIR	\N
-quran_82	quran82	الانفطار	quran-82	(Original Book)	ar	82	AL-INFITAAR	\N
-quran_83	quran83	المطففين	quran-83	(Original Book)	ar	83	AL-MUTAFFIFIIN	\N
-quran_84	quran84	الانشقاق	quran-84	(Original Book)	ar	84	AL-INSYIQAAQ	\N
-quran_85	quran85	البروج	quran-85	(Original Book)	ar	85	AL-BURUUJ	\N
-quran_86	quran86	الطارق	quran-86	(Original Book)	ar	86	AT-TAARIQ	\N
-quran_87	quran87	الاعلى	quran-87	(Original Book)	ar	87	AL-A´LAA	\N
-quran_88	quran88	الغاشية	quran-88	(Original Book)	ar	88	AL-GHAASYIYAH	\N
-quran_89	quran89	الفجر	quran-89	(Original Book)	ar	89	AL-FAJR	\N
-quran_90	quran90	البلد	quran-90	(Original Book)	ar	90	AL-BALAD	\N
-quran_91	quran91	الشمس	quran-91	(Original Book)	ar	91	ASY-SYAMS	\N
-quran_92	quran92	الليل	quran-92	(Original Book)	ar	92	AL-LAIL	\N
-quran_93	quran93	الضحى	quran-93	(Original Book)	ar	93	ADH-DHUHA	\N
-quran_94	quran94	الانشراح	quran-94	(Original Book)	ar	94	ASY-SYARH	\N
-quran_95	quran95	التين	quran-95	(Original Book)	ar	95	AT-TIIN	\N
-quran_96	quran96	العلق	quran-96	(Original Book)	ar	96	AL-´ALAQ	\N
-quran_97	quran97	القدر	quran-97	(Original Book)	ar	97	AL-QADR	\N
-quran_98	quran98	البينة	quran-98	(Original Book)	ar	98	AL-BAYYINAH	\N
-quran_99	quran99	الزلزلة	quran-99	(Original Book)	ar	99	AZ-ZALZALAH	\N
-quran_100	quran100	العاديات	quran-100	(Original Book)	ar	100	AL-´AADIYAAT	\N
-quran_101	quran101	القارعة	quran-101	(Original Book)	ar	101	AL-QAARI´AH	\N
-quran_102	quran102	التكاثر	quran-102	(Original Book)	ar	102	AT-TAKAATHUR	\N
-quran_103	quran103	العصر	quran-103	(Original Book)	ar	103	AL-´ASR	\N
-quran_104	quran104	الهمزة	quran-104	(Original Book)	ar	104	AL-HUMAZAH	\N
-quran_105	quran105	الفيل	quran-105	(Original Book)	ar	105	AL-FIIL	\N
-quran_106	quran106	قريش	quran-106	(Original Book)	ar	106	QARISY	\N
-quran_107	quran107	الماعون	quran-107	(Original Book)	ar	107	AL-MAA´UUN	\N
-quran_108	quran108	الكوثر	quran-108	(Original Book)	ar	108	AL-KAUTHAR	\N
-quran_109	quran109	الكافرون	quran-109	(Original Book)	ar	109	AL-KAAFIRUUN	\N
-quran_110	quran110	النصر	quran-110	(Original Book)	ar	110	AN-NASR	\N
-quran_111	quran111	المسد	quran-111	(Original Book)	ar	111	AL-MASAD	\N
-quran_112	quran112	الاخلاص	quran-112	(Original Book)	ar	112	AL-IKHLAAS	\N
-quran_113	quran113	الفلق	quran-113	(Original Book)	ar	113	AL-FALAQ	\N
-quran_114	quran114	الناس	quran-114	(Original Book)	ar	114	AN-NAAS	\N
+id	canonicalslug	name	slug	author	inlanguage	chapternum	namewithtashkeel	nametransliteration_id
+quran_1	quran1	الفاتحة	quran-1	(Original Book)	ar	1	AL-FAATIHAH	
+quran_2	quran2	البقرة	quran-2	(Original Book)	ar	2	AL-BAQARAH	
+quran_3	quran3	ال عمران	quran-3	(Original Book)	ar	3	ALI-IMRAN	
+quran_4	quran4	النساء	quran-4	(Original Book)	ar	4	AN-NISAA´	
+quran_5	quran5	المائدة	quran-5	(Original Book)	ar	5	AL-MAAIDAH	
+quran_6	quran6	الانعام	quran-6	(Original Book)	ar	6	AL-AN´AAM	
+quran_7	quran7	الاعراف	quran-7	(Original Book)	ar	7	AL-A´RAAF	
+quran_8	quran8	الانفال	quran-8	(Original Book)	ar	8	AL-A´RAAF	
+quran_9	quran9	التوبة	quran-9	(Original Book)	ar	9	AT-TAUBAH	
+quran_10	quran10	يونس	quran-10	(Original Book)	ar	10	YUNUS	
+quran_11	quran11	هود	quran-11	(Original Book)	ar	11	HUD	
+quran_12	quran12	يوسف	quran-12	(Original Book)	ar	12	YUSUF	
+quran_13	quran13	الرعد	quran-13	(Original Book)	ar	13	AR-RA´D	
+quran_14	quran14	ابراهيم	quran-14	(Original Book)	ar	14	IBRAHIM	
+quran_15	quran15	الحجر	quran-15	(Original Book)	ar	15	AL-HIJR	
+quran_16	quran16	النحل	quran-16	(Original Book)	ar	16	AL-NAHL	
+quran_17	quran17	الاسراء	quran-17	(Original Book)	ar	17	AL-ISRAA´	
+quran_18	quran18	الكهف	quran-18	(Original Book)	ar	18	AL-KAHFI	
+quran_19	quran19	مريم	quran-19	(Original Book)	ar	19	MARYAM	
+quran_20	quran20	طه	quran-20	(Original Book)	ar	20	TAHA	
+quran_21	quran21	الانبياء	quran-21	(Original Book)	ar	21	AL-ANBIYAA´	
+quran_22	quran22	الحج	quran-22	(Original Book)	ar	22	AL-HAJJ	
+quran_23	quran23	المؤمنون	quran-23	(Original Book)	ar	23	AL-MU´MINUUN	
+quran_24	quran24	النور	quran-24	(Original Book)	ar	24	AN-NUUR	
+quran_25	quran25	الفرقان	quran-25	(Original Book)	ar	25	AL-FURQAAN	
+quran_26	quran26	الشعراء	quran-26	(Original Book)	ar	26	ASY-SYU´ARAA	
+quran_27	quran27	النمل	quran-27	(Original Book)	ar	27	AN-NAML	
+quran_28	quran28	القصص	quran-28	(Original Book)	ar	28	AL-QASAS	
+quran_29	quran29	العنكبوت	quran-29	(Original Book)	ar	29	AL-´ANKABUUT	
+quran_30	quran30	الروم	quran-30	(Original Book)	ar	30	AR-RUUM	
+quran_31	quran31	لقمان	quran-31	(Original Book)	ar	31	LUQMAN	
+quran_32	quran32	السجدة	quran-32	(Original Book)	ar	32	AS-SAJDAH	
+quran_33	quran33	الاحزاب	quran-33	(Original Book)	ar	33	AL-AHZAAB	
+quran_34	quran34	سبأ	quran-34	(Original Book)	ar	34	SABA	
+quran_35	quran35	فاطر	quran-35	(Original Book)	ar	35	FAATIR	
+quran_36	quran36	يس	quran-36	(Original Book)	ar	36	YAA SIIN	
+quran_37	quran37	الصافات	quran-37	(Original Book)	ar	37	AS-SAAFFAAT	
+quran_38	quran38	ص	quran-38	(Original Book)	ar	38	SAAD	
+quran_39	quran39	الزمر	quran-39	(Original Book)	ar	39	AZ-ZUMAR	
+quran_40	quran40	غافر	quran-40	(Original Book)	ar	40	GHAAFIR	
+quran_41	quran41	فصلت	quran-41	(Original Book)	ar	41	FUSSILAT	
+quran_42	quran42	الشورى	quran-42	(Original Book)	ar	42	ASY-SYUURA	
+quran_43	quran43	الزخرف	quran-43	(Original Book)	ar	43	AZ-ZUKHRUF	
+quran_44	quran44	الدخان	quran-44	(Original Book)	ar	44	AD-DUKHAAN	
+quran_45	quran45	الجاثية	quran-45	(Original Book)	ar	45	AL-JAATHIYAH	
+quran_46	quran46	الاحقاف	quran-46	(Original Book)	ar	46	AL-AHQAAF	
+quran_47	quran47	محمد	quran-47	(Original Book)	ar	47	MUHAMMAD	
+quran_48	quran48	الفتح	quran-48	(Original Book)	ar	48	AL-FATH	
+quran_49	quran49	الحجرات	quran-49	(Original Book)	ar	49	AL-HUJURAAT	
+quran_50	quran50	ق	quran-50	(Original Book)	ar	50	QAAF	
+quran_51	quran51	الذاريات	quran-51	(Original Book)	ar	51	AZ-ZAARIYAAT	
+quran_52	quran52	الطور	quran-52	(Original Book)	ar	52	AT-TUUR	
+quran_53	quran53	النجم	quran-53	(Original Book)	ar	53	AN-NAJM	
+quran_54	quran54	القمر	quran-54	(Original Book)	ar	54	AL-QAMAR	
+quran_55	quran55	الرحمن	quran-55	(Original Book)	ar	55	AR-RAHMAAN	
+quran_56	quran56	الواقعة	quran-56	(Original Book)	ar	56	AL-WAAQI´AH	
+quran_57	quran57	الحديد	quran-57	(Original Book)	ar	57	AL-HADIID	
+quran_58	quran58	المجادلة	quran-58	(Original Book)	ar	58	AL-MUJAADALAH	
+quran_59	quran59	الحشر	quran-59	(Original Book)	ar	59	AL-HASYR	
+quran_60	quran60	الممتحنة	quran-60	(Original Book)	ar	60	AL-MUMTAHANAH	
+quran_61	quran61	الصف	quran-61	(Original Book)	ar	61	AS-SAFF	
+quran_62	quran62	الجمعة	quran-62	(Original Book)	ar	62	AL-JUMU´AH	
+quran_63	quran63	المنافقون	quran-63	(Original Book)	ar	63	AL-MUNAAFIQUUN	
+quran_64	quran64	التغابن	quran-64	(Original Book)	ar	64	AT-TAGHAABUN	
+quran_65	quran65	الطلاق	quran-65	(Original Book)	ar	65	AT-TALAAQ	
+quran_66	quran66	التحريم	quran-66	(Original Book)	ar	66	AT-TAHRIIM	
+quran_67	quran67	الملك	quran-67	(Original Book)	ar	67	AL-MULK	
+quran_68	quran68	القلم	quran-68	(Original Book)	ar	68	AL-QALAM	
+quran_69	quran69	الحاقة	quran-69	(Original Book)	ar	69	AL-HAAQQAH	
+quran_70	quran70	المعارج	quran-70	(Original Book)	ar	70	AL-MA´AARIJ	
+quran_71	quran71	نوح	quran-71	(Original Book)	ar	71	NUH	
+quran_72	quran72	الجن	quran-72	(Original Book)	ar	72	AL-JINN	
+quran_73	quran73	المزمل	quran-73	(Original Book)	ar	73	AL-MUZZAMMIL	
+quran_74	quran74	المدثر	quran-74	(Original Book)	ar	74	AL-MUDDATHTHIR	
+quran_75	quran75	القيامة	quran-75	(Original Book)	ar	75	AL-QIAAMAH	
+quran_76	quran76	الانسان	quran-76	(Original Book)	ar	76	AL-INSAAN	
+quran_77	quran77	المرسلات	quran-77	(Original Book)	ar	77	AL-MURSALAAT	
+quran_78	quran78	النبا	quran-78	(Original Book)	ar	78	AN-NABA´	
+quran_79	quran79	النازعات	quran-79	(Original Book)	ar	79	AN-NAAZI´AAT	
+quran_80	quran80	عبس	quran-80	(Original Book)	ar	80	´ABASA	
+quran_81	quran81	التكوير	quran-81	(Original Book)	ar	81	AT-TAKWIIR	
+quran_82	quran82	الانفطار	quran-82	(Original Book)	ar	82	AL-INFITAAR	
+quran_83	quran83	المطففين	quran-83	(Original Book)	ar	83	AL-MUTAFFIFIIN	
+quran_84	quran84	الانشقاق	quran-84	(Original Book)	ar	84	AL-INSYIQAAQ	
+quran_85	quran85	البروج	quran-85	(Original Book)	ar	85	AL-BURUUJ	
+quran_86	quran86	الطارق	quran-86	(Original Book)	ar	86	AT-TAARIQ	
+quran_87	quran87	الاعلى	quran-87	(Original Book)	ar	87	AL-A´LAA	
+quran_88	quran88	الغاشية	quran-88	(Original Book)	ar	88	AL-GHAASYIYAH	
+quran_89	quran89	الفجر	quran-89	(Original Book)	ar	89	AL-FAJR	
+quran_90	quran90	البلد	quran-90	(Original Book)	ar	90	AL-BALAD	
+quran_91	quran91	الشمس	quran-91	(Original Book)	ar	91	ASY-SYAMS	
+quran_92	quran92	الليل	quran-92	(Original Book)	ar	92	AL-LAIL	
+quran_93	quran93	الضحى	quran-93	(Original Book)	ar	93	ADH-DHUHA	
+quran_94	quran94	الانشراح	quran-94	(Original Book)	ar	94	ASY-SYARH	
+quran_95	quran95	التين	quran-95	(Original Book)	ar	95	AT-TIIN	
+quran_96	quran96	العلق	quran-96	(Original Book)	ar	96	AL-´ALAQ	
+quran_97	quran97	القدر	quran-97	(Original Book)	ar	97	AL-QADR	
+quran_98	quran98	البينة	quran-98	(Original Book)	ar	98	AL-BAYYINAH	
+quran_99	quran99	الزلزلة	quran-99	(Original Book)	ar	99	AZ-ZALZALAH	
+quran_100	quran100	العاديات	quran-100	(Original Book)	ar	100	AL-´AADIYAAT	
+quran_101	quran101	القارعة	quran-101	(Original Book)	ar	101	AL-QAARI´AH	
+quran_102	quran102	التكاثر	quran-102	(Original Book)	ar	102	AT-TAKAATHUR	
+quran_103	quran103	العصر	quran-103	(Original Book)	ar	103	AL-´ASR	
+quran_104	quran104	الهمزة	quran-104	(Original Book)	ar	104	AL-HUMAZAH	
+quran_105	quran105	الفيل	quran-105	(Original Book)	ar	105	AL-FIIL	
+quran_106	quran106	قريش	quran-106	(Original Book)	ar	106	QARISY	
+quran_107	quran107	الماعون	quran-107	(Original Book)	ar	107	AL-MAA´UUN	
+quran_108	quran108	الكوثر	quran-108	(Original Book)	ar	108	AL-KAUTHAR	
+quran_109	quran109	الكافرون	quran-109	(Original Book)	ar	109	AL-KAAFIRUUN	
+quran_110	quran110	النصر	quran-110	(Original Book)	ar	110	AN-NASR	
+quran_111	quran111	المسد	quran-111	(Original Book)	ar	111	AL-MASAD	
+quran_112	quran112	الاخلاص	quran-112	(Original Book)	ar	112	AL-IKHLAAS	
+quran_113	quran113	الفلق	quran-113	(Original Book)	ar	113	AL-FALAQ	
+quran_114	quran114	الناس	quran-114	(Original Book)	ar	114	AN-NAAS	
