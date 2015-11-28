@@ -38,6 +38,3 @@ are available at https://github.com/ceefour/qurandatabase
 		\copy (SELECT * FROM sanad.spellingproperty WHERE id LIKE 'quran%') TO 'spellingproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
 		\copy (SELECT * FROM sanad.authenticityproperty WHERE id LIKE 'quran%') TO 'authenticityproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
 		\copy (SELECT * FROM sanad.successionproperty WHERE id LIKE 'quran%') TO 'successionproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
-
-		cp -v /tmp/quran*.tsv /tmp/*-quran.tsv ~/git/sanad-quran/
-		
