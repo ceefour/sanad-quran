@@ -12,8 +12,11 @@ are available at https://github.com/ceefour/qurandatabase
 
 ## Usage
 
-1. Create the necessary tables using https://github.com/soluvas/sanad SQL schema migration tools.
-2. Import data using `psql` and `COPY` (PostgreSQL server's) or `\copy` (locally) command:
+1. Install [PostgreSQL 9.5 or later](http://www.postgresql.org/).
+2. Create the necessary tables using https://github.com/soluvas/sanad SQL schema migration tools.
+    For PostgreSQL you can quickly use https://github.com/soluvas/sanad/blob/master/export/sanad.schema.sql
+
+3. Import data using `psql` and `COPY` (PostgreSQL server's) or `\copy` (locally) command:
 
 		\copy sanad.quranchapter from 'quranchapter.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
 		\copy sanad.literal from 'literal-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
@@ -23,7 +26,7 @@ are available at https://github.com/ceefour/qurandatabase
 		\copy sanad.authenticityproperty from 'authenticityproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
 		\copy sanad.successionproperty from 'successionproperty-quran.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
 
-## How to Generate These Files
+## (Hendy's Internal Note) How to Generate DB Files from QuranDatabase.org dataset
 
 1. Prepare Quran Database files from [QuranDatabase.org](http://qurandatabase.org/) or https://github.com/ceefour/qurandatabase
 2. Use `org.soluvas.sanad.cli.qurandatabase.ImportQuranDatabase` from https://github.com/soluvas/sanad project.
