@@ -17,10 +17,15 @@ are available at https://github.com/ceefour/qurandatabase
     For PostgreSQL you can quickly use https://github.com/soluvas/sanad/blob/master/export/sanad.schema.sql
 
 3. Import data using `psql` and `COPY` (PostgreSQL server's) or `\copy` (locally) command.
+
    a. Make sure you've added `C:\Program Files\PostgreSQL\9.5\bin` to your `PATH`.
+
    b. Run _Command Prompt_.
+
    c. Change to sanad-quran directory: `cd git\sanad-quran`
+
    d. Run: `psql -Upostgres sanad_sanad_dev`
+
    e. Execute these statements inside `psql`:
 
 		\copy sanad.quranchapter from 'quranchapter.tsv' (format csv, delimiter E'\t', header true, escape E'\\', encoding 'UTF-8')
